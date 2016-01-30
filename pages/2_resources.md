@@ -21,7 +21,7 @@ Here are a great list of learning resources when getting started with Python:
 	* coming soon
 
 ## Past topics
-* See our past topics [here](/past).
+* See our past topics [here](/learnpython/past).
 
 ## Suggestions
 * Have something you want to add? Send an [email](marwahaha@berkeley.edu) to marwahaha@berkeley.edu.
