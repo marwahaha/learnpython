@@ -14,8 +14,8 @@ layout: default
 <div id="index" class="row">
   <div class="col-sm-9">
     <div class="post-area ">
-	  <div class="post-list-header">
-	  Upcoming
+	  <div class="post-list-header" post-cate="All">
+	  Upcoming Events
 	  </div>
       <div class="post-list-body">
         <div class="all-posts" post-cate="All">
@@ -58,9 +58,8 @@ layout: default
       <div class="categories-list-header">
         Categories
       </div>
-      
       <a href="javascript:;" class="categories-list-item" cate="All">
-        All<span class="my-badge"> {{site.posts | size}}</span>
+        Upcoming Events<span class="my-badge">:)</span>
       </a>
       {% for category in site.categories %}
         <a href="javascript:;" class="categories-list-item" cate="{{ category | first }}">
