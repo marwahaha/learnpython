@@ -18,7 +18,7 @@ This is our recommended way to install Python on your system:
 Here are a great list of learning resources when getting started with Python:
 
 
-#### Just getting started: 
+#### Beginner
 
 * [Start here](https://try-python.appspot.com/)
 
@@ -42,5 +42,5 @@ Here are a great list of learning resources when getting started with Python:
 
 {% highlight python %}
 def hello():
-	print("hello world")
+  print("hello world")
 {% endhighlight %}
