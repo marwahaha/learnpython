@@ -8,6 +8,8 @@ description: New to programming? Check out Learn Python, a D-Lab Working Group.
 #   Google search results) and in your feed.xml site description.
 
 
+#Show future posts!
+future: true
 # README README comment the below line out for local stuff!
 baseurl: "http://marwahaha.github.io/learnpython" # the subpath of your site, e.g. /blog/
 
