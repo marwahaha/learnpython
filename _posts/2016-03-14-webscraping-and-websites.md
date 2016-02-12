@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: Visualization
+categories: Web
 ---
 
 Come on **Monday, March 14 from 5-6:30pm** in the D-Lab (**356 Barrows**).
