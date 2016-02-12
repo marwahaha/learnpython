@@ -11,14 +11,6 @@ permalink: /past/
 ## Past Meetings
 Here is a list of topics from our previous meetings and associated learning resources.
 
-### Spring 2016
-
-
-There have been no meetings yet. 
-
-Our first meeting is on **February 8, at 5pm: [&#34;What&#39;s the big deal about Python?&#34;](http://marwahaha.github.io/learnpython/2016-02-08-the-big-deal-about-python/)**
-
-
 <div class="all-posts" post-cate="All">
   {% assign curDate = site.time | date: '%s' %}
   {% for post in site.posts %}
