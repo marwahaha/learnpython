@@ -34,6 +34,10 @@ There are a couple key differences for novice programmers:
 	* If you use Python 2 and do not want this behavior, add this line at the top of each program: ```from __future__ import division```. 
 
 
+{% highlight python %}
+def hi():
+    print("hello world")
+{% endhighlight %}
 
 ## For New Learners
 Here is a great list of resources when getting started with Python:
