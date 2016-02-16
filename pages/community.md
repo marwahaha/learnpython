@@ -28,8 +28,8 @@ You are on our page! We meet weekly at the D-Lab. This is for novices.
 ### py4science
 The py4science mailing list is still functional. [Subscribe here!](https://calmail.berkeley.edu/manage/list/listinfo/py4science@lists.berkeley.edu) This is a general campus discussion list for Python.
 
-### Data Science resource mapping
-[This is a listing of data science groups](http://marwahaha.github.io/datamap/) at UC Berkeley, where you can get help.
+### Data Science Resource List
+[This is a listing of data science groups](http://marwahaha.github.io/datamap/support) at UC Berkeley, where you can get help.
 
 ### Old 
 Other groups have been active in the past. 
@@ -51,7 +51,7 @@ The Python Work(ers) Party is now relegated to the archives! [Twitter account he
 
 ### Old events calendar from this page
 [here they are](/learnpython/events/archive)
-
+[here are links to old trainings](/learnpython/trainings)
 
 ## Suggestions
 * Have something you want to add? Send an [email](mailto:marwahaha@berkeley.edu) to marwahaha@berkeley.edu.

@@ -1,9 +1,7 @@
 ---
 layout: page
 ---
-<!-- title: Python Events at Cal (OLD, SO NOT SHOWING UP IN NAV BAR) 
- -->
-{% for post in site.categories.events %}
+{% for post in site.categories.trainings %}
   {{ DIVIDER }}
   *{{ post.date | date_to_long_string}}*
 
@@ -13,5 +11,4 @@ layout: page
 
   {% assign DIVIDER = "---" %}
 {% endfor %}
-
 
