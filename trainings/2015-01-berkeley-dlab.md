@@ -1,5 +1,6 @@
 ---
 layout: page
+redirect_from: /trainings/2015-01-berkeley-dlab.html
 ---
 <!-- title: Berkeley D-Lab -- Jan 2015 -->
 # Potential instructors

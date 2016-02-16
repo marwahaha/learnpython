@@ -1,5 +1,6 @@
 ---
 layout: page
+redirect_from: /trainings/2014-08-berkeley-dlab.html
 ---
 <!-- title: Berkeley D-Lab -- Aug 2014 -->
 

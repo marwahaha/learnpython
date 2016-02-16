@@ -1,5 +1,6 @@
 ---
 layout: page
+redirect_from: /trainings/2015-08-berkeley-dlab.html
 ---
 <!-- title: Berkeley D-Lab -- August 2015 -->
 ## Welcome to Python!

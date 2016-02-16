@@ -35,41 +35,32 @@ There are a couple key differences for novice programmers:
 
 
 
+## For New Learners
+Here is a great list of resources when getting started with Python:
+
+#### Start here!
+[Start](https://try-python.appspot.com/) with this 10-minute tutorial. When it loads, type ```tutorial``` and press Enter to start.
+
+#### Other exercises
+[Go through these exercises](https://bids.github.io/2016-01-14-berkeley/python/00-python-intro.html) (courtesy of Software Carpentry) 
 
 
+#### Longer Reads and Lessons
 
-## Learning Resources
-Here are a great list of learning resources when getting started with Python:
-
-
-#### Beginner
-
-* [Start here](https://try-python.appspot.com/) with this 10-minute tutorial. When it loads, type ```tutorial``` and press Enter to start.
-
-* [Go through these exercises](https://bids.github.io/2016-01-14-berkeley/python/00-python-intro.html) (courtesy of Software Carpentry) 
-
-
-#### Longer Reads
-
-* [Python for Social Sciences](http://www-rohan.sdsu.edu/~gawron/python_for_ss/course_core/book_draft/Preface/Preface.html), a free online book by jean Mark Gawron
-
-
-#### Other
-
-* [Python at Berkeley](http://python.berkeley.edu/learning_resources.html)
+* [Python for Social Sciences](http://www-rohan.sdsu.edu/~gawron/python_for_ss/course_core/book_draft/Preface/Preface.html), a free online book by Jean Mark Gawron
 
 * Lessons on [other topics](http://software-carpentry.org/lessons/) are available from Software Carpentry
 
+* [Python at Berkeley](http://python.berkeley.edu/learning_resources.html)
 
-## Past topics
-* See our past topics [here](/learnpython/past).
+
+## Other Resources
+* See the Learn Python Working Group&#39;s past topics [here](/learnpython/past).
+
+* Others in the [community](/learnpython/community) may have relevant materials.
+
+* Also, see [old resources](/learnpython/old_resources).
 
 
 ## Suggestions
-* Have something you want to add? Send an [email](mailto:marwahaha@berkeley.edu) to marwahaha@berkeley.edu.
-
-
-{% highlight python %}
-def hello():
-    print("hello world")
-{% endhighlight %}
+* Have something you want to add? Send an [email](mailto:marwahaha@berkeley.edu) to marwahaha@berkeley.edu, or fork me on Github.
