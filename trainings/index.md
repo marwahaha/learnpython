@@ -3,7 +3,9 @@ layout: page
 ---
 
 
-##Trainings:
+#Trainings:
+
+
 
 * [D-Lab, UC Berkeley, August 2015](/learnpython/trainings/2015-08-berkeley-dlab)
 
