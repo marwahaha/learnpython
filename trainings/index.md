@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-#Trainings:
+Trainings:
 
 
 
