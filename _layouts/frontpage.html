@@ -34,6 +34,8 @@ layout: default
         </div>
         <!-- <div class="posts-in-categories"> -->
         {% for category in site.categories %}
+          {% if category contains 'events' %}
+          {% else %}
           <div post-cate="{{category | first}}">
             {% for posts in category  %}
               {% for post in posts reversed %}
@@ -48,6 +50,7 @@ layout: default
               {% endfor %}
             {% endfor %}
           </div>
+          {% endif %}
         {% endfor %}
         <!-- </div> -->
       </div>
@@ -62,9 +65,12 @@ layout: default
         Upcoming Events<span class="my-badge">:)</span>
       </a>
       {% for category in site.categories %}
+          {% if category contains 'events' %}
+          {% else %}
         <a href="javascript:;" class="categories-list-item" cate="{{ category | first }}">
           {{ category | first }} <span class="my-badge">{{ category | last | size }}</span>
         </a>
+          {% endif %}
       {% endfor %}
     </div>
   </div>

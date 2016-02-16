@@ -26,7 +26,7 @@ The Hacker Within supports the development of your inner hacker, in a [weekly me
 You are on our page! We meet weekly at the D-Lab. This is for novices.
 
 ### py4science
-The py4science mailing list is still functional. [Subscribe here!](https://calmail.berkeley.edu/manage/list/listinfo/py4science@lists.berkeley.edu). This is a general campus discussion list for Python.
+The py4science mailing list is still functional. [Subscribe here!](https://calmail.berkeley.edu/manage/list/listinfo/py4science@lists.berkeley.edu) This is a general campus discussion list for Python.
 
 ### Data Science resource mapping
 [This is a listing of data science groups](http://marwahaha.github.io/datamap/) at UC Berkeley, where you can get help.
@@ -50,7 +50,8 @@ The Python Work(ers) Party is now relegated to the archives! [Twitter account he
 [http://dlab.berkeley.edu/calendar-node-field-date](http://dlab.berkeley.edu/calendar-node-field-date)
 
 ### Old events calendar from this page
-coming soon
+[here they are](/learnpython/events/archive)
+
 
 ## Suggestions
 * Have something you want to add? Send an [email](mailto:marwahaha@berkeley.edu) to marwahaha@berkeley.edu.
