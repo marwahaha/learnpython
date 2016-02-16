@@ -4,6 +4,7 @@ redirect_from: /trainings/2014-08-berkeley-dlab.html
 ---
 <!-- title: Berkeley D-Lab -- Aug 2014 -->
 
+
 ## Getting ready
 
 Please download and install BCE 0.1.1 for virtualbox. Links and instructions are
