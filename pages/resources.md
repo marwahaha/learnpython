@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Resources
+title: Learning Resources
 comments: true
 permalink: /learn/
+redirect_from: learning_resources.html
 ---
 
 * content
 {:toc}
 
-## Setup
+## Set up your computer
 This is our recommended way to install Python on your system.
 
 #### Install Jupyter
@@ -33,6 +34,10 @@ There are a couple key differences for novice programmers:
 	* If you use Python 2 and do not want this behavior, add this line at the top of each program: ```from __future__ import division```. 
 
 
+
+
+
+
 ## Learning Resources
 Here are a great list of learning resources when getting started with Python:
 
@@ -41,7 +46,7 @@ Here are a great list of learning resources when getting started with Python:
 
 * [Start here](https://try-python.appspot.com/) with this 10-minute tutorial. When it loads, type ```tutorial``` and press Enter to start.
 
-* Go through [these exercises](https://bids.github.io/2016-01-14-berkeley/python/00-python-intro.html) (courtesy of Software Carpentry) 
+* [Go through these exercises](https://bids.github.io/2016-01-14-berkeley/python/00-python-intro.html) (courtesy of Software Carpentry) 
 
 
 #### Longer Reads

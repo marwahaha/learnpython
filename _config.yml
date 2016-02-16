@@ -7,6 +7,8 @@ description: New to programming? Check out Learn Python, a D-Lab Working Group.
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 
+gems:
+  - jekyll-redirect-from
 
 #Show future posts!
 future: true
