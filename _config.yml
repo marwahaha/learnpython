@@ -12,8 +12,14 @@ gems:
 
 #Show future posts!
 future: true
+
+
+
 # README README comment the below line out for local stuff!
 baseurl: "http://marwahaha.github.io/learnpython" # the subpath of your site, e.g. /blog/
+
+
+
 
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
