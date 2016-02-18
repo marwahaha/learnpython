@@ -1,5 +1,6 @@
 ---
 layout: frontpage
+redirect_to: http://python.berkeley.edu/
 ---
 
 # Welcome

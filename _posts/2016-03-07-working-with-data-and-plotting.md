@@ -2,6 +2,8 @@
 layout: post
 comments: true
 categories: Visualization
+redirect_to: http://python.berkeley.edu/2016-03-07-working-with-data-and-plotting
+
 ---
 
 Come on **Monday, March 7 from 5-6:30pm** in the D-Lab (**356 Barrows**).

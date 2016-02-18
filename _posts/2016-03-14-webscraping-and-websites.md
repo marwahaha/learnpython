@@ -2,6 +2,8 @@
 layout: post
 comments: true
 categories: Web
+redirect_to: http://python.berkeley.edu/2016-03-14-webscraping-and-websites
+
 ---
 
 Come on **Monday, March 14 from 5-6:30pm** in the D-Lab (**356 Barrows**).

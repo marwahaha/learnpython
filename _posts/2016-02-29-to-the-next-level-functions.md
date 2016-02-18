@@ -2,6 +2,8 @@
 layout: post
 comments: true
 categories: Beginner
+redirect_to: http://python.berkeley.edu/2016-02-29-to-the-next-level-functions
+
 ---
 
 Come on **Monday, February 29 from 5-6:30pm** in the D-Lab (**356 Barrows**).

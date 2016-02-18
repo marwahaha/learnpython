@@ -2,6 +2,7 @@
 layout: post
 comments: true
 categories: Beginner
+redirect_to: http://python.berkeley.edu/2016-02-08-the-big-deal-about-python
 ---
 
 What&#39;s the big deal about Python? Stop by on **Monday, February 8 from 5-6:30pm** in the D-Lab (**356 Barrows**).
