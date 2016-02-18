@@ -3,6 +3,8 @@ layout: page
 title: Past Meetings
 comments: true
 permalink: /past/
+redirect_to: http://python.berkeley.edu/past/
+
 ---
 
 * content

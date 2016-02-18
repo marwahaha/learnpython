@@ -3,6 +3,8 @@ layout: page
 title: New to Python? Start here
 comments: true
 permalink: /learn/
+redirect_to: http://python.berkeley.edu/learn/
+
 ---
 
 * content

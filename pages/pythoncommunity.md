@@ -4,6 +4,8 @@ title: Python Community
 comments: true
 permalink: /community/
 redirect-from: events/archives.html
+redirect_to: http://python.berkeley.edu/community/
+
 ---
 
 * content

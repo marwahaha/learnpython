@@ -3,9 +3,8 @@ layout: page
 permalink: /resources/
 title: Learning Resources
 redirect_from: learning_resources.html
+redirect_to: http://python.berkeley.edu/resources/
 ---
-<!-- 
- -->
 
  
 ## Asking questions
