@@ -13,7 +13,7 @@ permalink: /learn/
 Here is a great list of resources when getting started with Python:
 
 #### Start here!
-[Start](https://try-python.appspot.com/) with this 10-minute tutorial. When it loads, type ```tutorial``` and press Enter to start.
+[Start with this 10-minute tutorial.](https://try-python.appspot.com/) When it loads, type ```tutorial``` and press Enter to start.
 
 {% highlight python %}
 def hi():
