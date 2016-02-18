@@ -1,9 +1,10 @@
 ---
 layout: page
-permalink: /old_resources/
-
+permalink: /resources/
+title: Learning Resources
+redirect_from: learning_resources.html
 ---
-<!-- title: Python Learning Resources
+<!-- 
  -->
 
  

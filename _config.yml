@@ -35,6 +35,10 @@ newsourceroot: https://github.com/marwahaha/learnpython/blob/master
 # Build settings
 markdown: kramdown
 
+kramdown:
+    smartquotes: ["apos", "apos", "quot", "quot"]
+
+
 # highlight
 # highlighter: pygments
 # highlighter: rouge

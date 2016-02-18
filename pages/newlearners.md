@@ -1,13 +1,25 @@
 ---
 layout: page
-title: Learning Resources
+title: New to Python? Start here
 comments: true
 permalink: /learn/
-redirect_from: learning_resources.html
 ---
 
 * content
 {:toc}
+
+
+## For New Learners
+Here is a great list of resources when getting started with Python:
+
+#### Start here!
+[Start](https://try-python.appspot.com/) with this 10-minute tutorial. When it loads, type ```tutorial``` and press Enter to start.
+
+{% highlight python %}
+def hi():
+    print("hello world")
+{% endhighlight %}
+
 
 ## Set up your computer
 This is our recommended way to install Python on your system.
@@ -34,20 +46,9 @@ There are a couple key differences for novice programmers:
 	* If you use Python 2 and do not want this behavior, add this line at the top of each program: ```from __future__ import division```. 
 
 
-{% highlight python %}
-def hi():
-    print("hello world")
-{% endhighlight %}
+## More Practice
 
-## For New Learners
-Here is a great list of resources when getting started with Python:
-
-#### Start here!
-[Start](https://try-python.appspot.com/) with this 10-minute tutorial. When it loads, type ```tutorial``` and press Enter to start.
-
-#### Other exercises
 [Go through these exercises](https://bids.github.io/2016-01-14-berkeley/python/00-python-intro.html) (courtesy of Software Carpentry) 
-
 
 #### Longer Reads and Lessons
 
@@ -55,16 +56,13 @@ Here is a great list of resources when getting started with Python:
 
 * Lessons on [other topics](http://software-carpentry.org/lessons/) are available from Software Carpentry
 
-* [Python at Berkeley](http://python.berkeley.edu/learning_resources.html)
+#### Beyond
 
-
-## Other Resources
 * See the Learn Python Working Group&#39;s past topics [here](/learnpython/past).
 
 * Others in the [community](/learnpython/community) may have relevant materials.
 
-* Also, see [old resources](/learnpython/old_resources).
-
+* Also, see the [learning resources](/learnpython/resources) page.
 
 ## Suggestions
 * Have something you want to add? Send an [email](mailto:marwahaha@berkeley.edu) to marwahaha@berkeley.edu, or fork me on Github.
